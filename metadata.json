@@ -1,0 +1,6 @@
+{
+  "name": "ระบบวินิจฉัยและจ่ายยา รพ.สต.",
+  "description": "ระบบช่วยวินิจฉัยโรค คำนวณขนาดยาตามน้ำหนัก-ส่วนสูง และจ่ายยาตามกรอบบัญชียา รพ.สต. 106 รายการ พร้อมคำแนะนำการดูแลสุขภาพและเกณฑ์ส่งต่อ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
